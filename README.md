@@ -1,8 +1,8 @@
 # Hello, folks! 👋
 
-<p align="center">
+<img align="center">
     ![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfanghorbanee&show_icons=true&theme=cobalt)
-</p>
+</img>
 
 
 <!--
