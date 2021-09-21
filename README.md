@@ -20,7 +20,6 @@
 
 <br>
 
-
 ## Stats
 
 <div>
@@ -33,9 +32,6 @@
 </a>
 </div>
 
-
+<br>
 
 ![snake gif](https://github.com/erfanghorbanee/erfanghorbanee/blob/output/github-contribution-grid-snake.gif)
-
-
-
