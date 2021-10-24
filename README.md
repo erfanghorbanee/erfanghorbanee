@@ -1,8 +1,10 @@
 # Hello, folks! 👋
 
-- 🌱 I’m currently learning Django
 
-- 📫 How to reach me: erfanghorbanee@gmail.com
+## 📫 How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-ghorbani98/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanghorbanee@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98)](https://t.me/Bookworm98)
 
 <br>
 
