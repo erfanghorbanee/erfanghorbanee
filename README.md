@@ -9,7 +9,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanghorbanee@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98)](https://t.me/Bookworm98)
 
-<br>
 
 ## Skills
 
@@ -23,7 +22,6 @@
     <a href=""#""><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></a>
 </p>
 
-<br>
 
 ## Stats
 
