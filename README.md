@@ -1,4 +1,7 @@
 # Hello, folks! 👋
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
+<br>
 
 
 ## 📫 How to reach me
