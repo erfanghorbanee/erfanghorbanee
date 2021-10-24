@@ -26,11 +26,11 @@
 
 <div>
 <a href="https://github.com/erfanghorbanee">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanghorbanee&show_icons=true&theme=cobalt&layout=demo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanghorbanee&show_icons=true&theme=cobalt&layout=demo" />
 </a>
 
 <a href="https://github.com/erfanghorbanee">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=erfanghorbanee&show_icons=true&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erfanghorbanee&show_icons=true&theme=cobalt" />
 </a>
 </div>
 
