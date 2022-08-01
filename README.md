@@ -1,6 +1,9 @@
 # Hello, folks! 👋
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
+I'm a Back-end Developer with more than 1 year of practical experience in RESTful & APIs
+Development using Django with willingness to learn and master Design Patterns and TDD.
+
 
 ## 📫 How to reach me
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-ghorbani98/)
