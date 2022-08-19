@@ -42,5 +42,6 @@ Development using Django with willingness to learn and master Design Patterns an
   </p>
 
 <br>
-
-![snake gif](https://github.com/erfanghorbanee/erfanghorbanee/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/erfanghorbanee/erfanghorbanee/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</p>
