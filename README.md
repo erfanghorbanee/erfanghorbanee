@@ -18,7 +18,7 @@ Development using Django with willingness to learn and master Design Patterns an
 
 
 
-## Skills
+##  Languages and Tools
 
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
@@ -33,15 +33,13 @@ Development using Django with willingness to learn and master Design Patterns an
 
 ## Stats
 
-<div>
-<a href="https://github.com/erfanghorbanee">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanghorbanee&show_icons=true&theme=cobalt&layout=demo" />
-</a>
-
-<a href="https://github.com/erfanghorbanee">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanghorbanee&show_icons=true&theme=cobalt" />
-</a>
-</div>
+<p align="center"> <!--- P tag to align contents -->
+    <a href="https://github.com/erfanghorbanee">
+      <img alt="erfanghorbanee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=erfanghorbanee&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px"/>
+    </a>
+    <a href="https://github.com/erfanghorbanee"><img alt="erfanghorbanee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanghorbanee&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
+    </a>
+  </p>
 
 <br>
 
