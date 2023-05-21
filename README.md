@@ -10,12 +10,12 @@ Development using Django with willingness to learn and master Design Patterns an
 <p align="center"> <!--- P tag to align contents -->
 <a href="https://www.linkedin.com/in/alireza-ghorbani98/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:erfanghorbanee@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://t.me/Bookworm98"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98"></a>
+<a href="https://t.me/simpledev403"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98"></a>
 </p>
 <p align="center"> <!--- P tag to align contents -->
 <a href="https://leetcode.com/erfanghorbanee/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://www.sololearn.com/profile/11016307"><img alt="Sololearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/11102959/erfan-ghorbani"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/11102959/devguy"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </p>
 <p align="center"> <!--- P tag to align contents -->
 <a href="https://www.codewars.com/users/erfanghorbanee"><img src="https://www.codewars.com/users/erfanghorbanee/badges/small"></a>
