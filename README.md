@@ -1,8 +1,8 @@
 # Hello, folks! 👋
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
-I'm a Back-end Developer with more than 1 year of practical experience in RESTful & APIs
-Development using Django with willingness to learn and master Design Patterns and TDD.
+As a Back-end Developer, I have gained valuable experience in RESTful API development using Django, and I'm always eager to improve my skills. \
+I am passionate about software engineering and strive to follow best practices and industry standards to create high-quality solutions.
 
 
 ## 📫 How to reach me
@@ -11,6 +11,7 @@ Development using Django with willingness to learn and master Design Patterns an
 <a href="https://www.linkedin.com/in/alireza-ghorbani98/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:erfanghorbanee@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/simpledev403"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98"></a>
+<a rel="me" href="https://mastodon.social/@bookworm403"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
 </p>
 <p align="center"> <!--- P tag to align contents -->
 <a href="https://leetcode.com/erfanghorbanee/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
