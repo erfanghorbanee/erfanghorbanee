@@ -1,9 +1,9 @@
 # Hello, folks! 👋
+
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 As a Back-end Developer, I have gained valuable experience in RESTful API development using Django, and I'm always eager to improve my skills. \
 I am passionate about software engineering and strive to follow best practices and industry standards to create high-quality solutions.
-
 
 ## 📫 How to reach me
 
@@ -22,8 +22,7 @@ I am passionate about software engineering and strive to follow best practices a
 <a href="https://www.codewars.com/users/erfanghorbanee"><img src="https://www.codewars.com/users/erfanghorbanee/badges/small"></a>
 </p>
 
-
-##  Languages and Tools
+## Languages and Tools
 
 <p align="center"> <!--- P tag to align contents -->
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
@@ -34,7 +33,6 @@ I am passionate about software engineering and strive to follow best practices a
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </p>
-
 
 ## Stats
 
