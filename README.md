@@ -1,8 +1,24 @@
 # Hello, folks! 👋
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+<table>
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGUzODkwMXcxZnZuZWxrc29vY3F1cGN1dTUwZDA0YmFkMWszN3FqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" />
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+    </td>
+    <td align="center" width="30%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JnampzampzeHp6amEyNGZsbGN3cDgweHBpaGR1cXR5emtla2VtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dPbkqUb2p5XTvIXLx/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
-As a Back-end Developer, I have gained valuable experience in RESTful API development using Django, and I'm always eager to improve my skills. I am passionate about software engineering and strive to follow best practices and industry standards to create high-quality solutions.
+I'm a Back-end Developer with a focus on building awesome RESTful APIs using Django. I thrive on writing clean, efficient code and keeping up with the latest industry standards.
+
+Currently diving into the world of cybersecurity through my Master's in Computer Engineering. Excited about blending these skills to create top-notch, secure solutions.
+
+I am on a continuous learning path and eager to exchange knowledge. Let's connect and chat about coding, cybersecurity, or anything tech-related!
 
 ## 📫 How to reach me
 
